@@ -33,7 +33,7 @@ pip install flask
 # Rode a aplicação
 python app.py
 
-A API estará disponível em: http://localhost:5000/
+# A API estará disponível em: http://localhost:5000/
 
 ## 🔁 Rotas disponíveis
 

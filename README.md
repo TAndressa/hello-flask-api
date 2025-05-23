@@ -75,10 +75,12 @@ python -m pytest
 
 Você verá um resultado como:
 
-**================ test session starts =================
+```bash
+================ test session starts =================
 collected 3 items
 
 test_app.py ...                                  [100%]
 
 ================ 3 passed in 0.05s ====================
-**
+
+```

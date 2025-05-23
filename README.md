@@ -35,6 +35,7 @@ python app.py
 
 # A API estará disponível em: http://localhost:5000/
 
+## 🔁 Rotas disponiveis
 ## 🔁 Rotas disponíveis
 
 | Rota      | Método | Descrição                          |
